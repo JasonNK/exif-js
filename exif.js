@@ -801,5 +801,5 @@
             return EXIF;
         });
     }
-}.call(this));
+})();
 
